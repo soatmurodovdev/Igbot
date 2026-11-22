@@ -1,0 +1,152 @@
+{
+  "uz": {
+    "emoji": [
+      "Mehringiz uchun rahmat ❤️",
+      "Chiroyli reaksiyangiz uchun rahmat 😊",
+      "Rahmat, sizga ham yaxshilik tilaymiz 🤍",
+      "E'tiboringiz uchun rahmat ❤️",
+      "Rahmat, xursand bo'ldik 😊"
+    ],
+    "praise": [
+      "Chiroyli tilaklaringiz uchun katta rahmat 🤍",
+      "Mehringiz uchun rahmat, sizga ham yaxshilik tilaymiz ❤️",
+      "Sizga yoqqanidan juda xursandmiz 😊",
+      "Iltifotingiz uchun rahmat",
+      "Yaxshi so'zlaringiz uchun rahmat 🤍",
+      "Yoqqaniga xursandmiz, rahmat"
+    ],
+    "dua": [
+      "Omin, barchamizga nasib qilsin 🤲",
+      "Alloh sizdan ham rozi bo'lsin 🤍",
+      "Chiroyli duoyingiz uchun rahmat, omin 🤲",
+      "Omin, sizga ham shunday duolar 🤲",
+      "Duoyingiz uchun rahmat, omin 🤍"
+    ],
+    "greeting": [
+      "Salom, xush kelibsiz 😊",
+      "Salom, e'tiboringiz uchun rahmat",
+      "Salom, yaxshi kayfiyat tilaymiz 🤍"
+    ],
+    "greeting_islamic": [
+      "Va alaykum assalom 🤍",
+      "Va alaykum assalom, xush kelibsiz",
+      "Va alaykum assalom, e'tiboringiz uchun rahmat 😊"
+    ],
+    "question": [
+      "Savolingiz uchun rahmat 🤍",
+      "Qiziqishingiz uchun rahmat 😊",
+      "E'tiboringiz uchun rahmat"
+    ],
+    "thanks": [
+      "Rahmat 🤍",
+      "Fikringiz uchun rahmat",
+      "E'tiboringiz uchun rahmat 😊"
+    ],
+    "criticism": [
+      "Fikringiz uchun rahmat, buni inobatga olamiz",
+      "Bildirgan fikringiz uchun rahmat, e'tiborga olamiz",
+      "Fikringizni hurmat qilamiz, rahmat"
+    ],
+    "long": [
+      "Samimiy fikringiz uchun katta rahmat 🤍",
+      "Yozgan fikrlaringiz biz uchun juda qadrli, rahmat",
+      "Vaqt ajratib yozganingiz uchun rahmat ❤️"
+    ]
+  },
+  "ru": {
+    "emoji": [
+      "Спасибо за тепло ❤️",
+      "Благодарим за реакцию 😊",
+      "Спасибо, и вам всего хорошего 🤍",
+      "Спасибо за внимание ❤️"
+    ],
+    "praise": [
+      "Спасибо за добрые слова 🤍",
+      "Очень рады, что вам понравилось 😊",
+      "Благодарим за тёплые слова, и вам всего доброго ❤️",
+      "Спасибо большое!"
+    ],
+    "dua": [
+      "Аминь, всем нам 🤲",
+      "Спасибо за добрые пожелания 🤍",
+      "Благодарим за пожелания, и вам всего хорошего 🤲"
+    ],
+    "greeting": [
+      "Здравствуйте, добро пожаловать 😊",
+      "Здравствуйте, спасибо за внимание",
+      "Привет, рады вас видеть 🤍"
+    ],
+    "greeting_islamic": [
+      "Ва алейкум ассалам 🤍",
+      "Ва алейкум ассалам, добро пожаловать"
+    ],
+    "question": [
+      "Спасибо за вопрос 🤍",
+      "Благодарим за интерес 😊",
+      "Спасибо за внимание"
+    ],
+    "thanks": [
+      "Спасибо 🤍",
+      "Благодарим за комментарий",
+      "Спасибо за внимание 😊"
+    ],
+    "criticism": [
+      "Спасибо за ваше мнение, мы учтём",
+      "Благодарим за отзыв, примем к сведению",
+      "Уважаем ваше мнение, спасибо"
+    ],
+    "long": [
+      "Спасибо большое за искренний комментарий 🤍",
+      "Очень ценим, что вы нашли время написать",
+      "Благодарим за подробные слова ❤️"
+    ]
+  },
+  "en": {
+    "emoji": [
+      "Thank you for the love ❤️",
+      "Thanks for the lovely reaction 😊",
+      "Thank you, wishing you the best 🤍",
+      "Really appreciate it ❤️"
+    ],
+    "praise": [
+      "Thank you for the kind words 🤍",
+      "So glad you liked it 😊",
+      "Thanks a lot, wishing you the best ❤️",
+      "That means a lot, thank you"
+    ],
+    "dua": [
+      "Amen, and the same to you 🤲",
+      "Thank you for the kind wishes 🤍",
+      "Thanks for your lovely prayer 🤲"
+    ],
+    "greeting": [
+      "Hello, welcome 😊",
+      "Hi, thanks for stopping by",
+      "Hello, glad to see you here 🤍"
+    ],
+    "greeting_islamic": [
+      "Wa alaykum assalam 🤍",
+      "Wa alaykum assalam, welcome"
+    ],
+    "question": [
+      "Thanks for your question 🤍",
+      "Thank you for your interest 😊",
+      "Appreciate you asking"
+    ],
+    "thanks": [
+      "Thank you 🤍",
+      "Thanks for your comment",
+      "Appreciate it 😊"
+    ],
+    "criticism": [
+      "Thank you for your feedback, we will take it into account",
+      "We appreciate your honest opinion, thank you",
+      "Thanks for sharing your view"
+    ],
+    "long": [
+      "Thank you so much for such a heartfelt comment 🤍",
+      "We truly appreciate you taking the time to write this",
+      "Your words mean a lot to us, thank you ❤️"
+    ]
+  }
+}
